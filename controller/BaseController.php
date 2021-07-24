@@ -56,4 +56,8 @@ class BaseController extends Controller
 		echo view('includes/footer',$data);
 	}
 
+	public function ura(){
+		
+	}
+
 }
